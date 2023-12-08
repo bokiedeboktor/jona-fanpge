@@ -1,0 +1,51 @@
+
+h1 { font-family: 'Courier New', Courier, monospace;
+    text-align: center;}
+    
+    body {background-color: #d7eeff;
+  
+
+    }
+
+
+    
+
+    * {
+        margin: 0;
+        padding: 0;
+      
+     
+      
+      }
+    .hoofd {background-image: url(../image/leuk-hoor.jpg);
+        padding-top: 200px;
+        padding-bottom: 40vw;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+       justify-content: flex-start;
+      
+     
+    }
+      
+      .menu-container {
+        font-family: 'Courier New', Courier, monospace;
+      
+      }
+      
+
+
+
+      .menu {
+        
+     
+        border: 4px dotted rgb(178, 85, 160);
+        display: flex;
+        justify-content: space-around;
+        background-color: rgba(195, 140, 195, 0.553);
+        
+        
+       
+      }
+    
+      
